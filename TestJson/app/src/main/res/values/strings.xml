@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestJson</string>
+
+    <string name="hello_world">Get the JSON String</string>
+    <string name="action_settings">Settings</string>
+</resources>
